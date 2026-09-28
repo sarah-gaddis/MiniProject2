@@ -1,0 +1,11 @@
+project,#commits,#authors,From,To,#stars,#forks,LastGHCommitDate,"LongestGapStart (YYYY-MM), ","LongestGapEnd (YYYY-MM),",LongestGapLength,NumCommitsAfterLastGap,pattern,NumberOfGapsInTimeline,Interpretation
+nlesc_mcfly,936,14,1463735564,1757000411,366,83,2025/7/28,2023-05,2024-06,14,,irregular,7,
+cjhopp_scripts,1395,3,1477379901,1757625485,9,3,2026/8/25,2023-08,2024-04,9,,irregular,2,
+synthetichealth_module-builder,796,33,1510549990,1758835577,49,29,2026/9/25,2024-06,2024-09,4,,declining,2,
+pennylaneai_pennylane,68389,318,1524072902,1777068056,3500,869,2026/9/25,2019-03,2019-03,1,,rising,0,
+jatinchowdhury18_analogtapemodel,1230,20,1549443220,1760884626,1400,76,2023/11/5,2024-09,2025-02,6,,declining,7,
+paddlepaddle_deepspeech,1,1,1495458037,1760990174,12700,2000,2026/6/12,2018-06,2019-02,9,,irregular,2,
+fraserw_pymop,384,8,1449069906,1749048223,23,18,2025/6/4,2021-06,2022-06,13,,declining,10,
+henryseg_veering,794,4,1580218442,1761926867,10,3,2026/9/24,2020-04,2020-06,3,,declining,1,
+tanghaibao_goatools,1839,54,1263583173,1757808452,908,212,2026/8/21,2011-12,2012-12,13,,irregular,9,
+helske_bssm,894,6,1465322397,1758701591,49,14,2026/9/24,2024-09,2025-07,11,,declining,8,
